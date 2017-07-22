@@ -1,0 +1,7 @@
+﻿  test1.cpp
+c:\users\wldnw\documents\visual studio 2017\projects\final\final\test1.cpp(126): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\wldnw\documents\visual studio 2017\projects\final\final\test1.cpp(155): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\wldnw\documents\visual studio 2017\projects\final\final\test1.cpp(59): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  Final.vcxproj -> C:\Users\wldnw\Documents\Visual Studio 2017\Projects\Final\Debug\Final.exe
+  Final.vcxproj -> C:\Users\wldnw\Documents\Visual Studio 2017\Projects\Final\Debug\Final.pdb (Partial PDB)
